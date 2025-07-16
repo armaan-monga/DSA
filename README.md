@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/armaan-monga/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/armaan-monga/DSA/tree/master/0014-longest-common-prefix) |
 | [0228-summary-ranges](https://github.com/armaan-monga/DSA/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/armaan-monga/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/armaan-monga/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/armaan-monga/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/armaan-monga/DSA/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/armaan-monga/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/armaan-monga/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/armaan-monga/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/armaan-monga/DSA/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -52,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/armaan-monga/DSA/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
