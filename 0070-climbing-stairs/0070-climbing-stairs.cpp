@@ -13,6 +13,6 @@ public:
         one_step_before = current_ways;
     }
 
-    return one_step_before;
+    return current_ways;
     }
 };
