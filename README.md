@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/armaan-monga/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/armaan-monga/DSA/tree/master/0443-string-compression) |
+| [1508-longest-happy-prefix](https://github.com/armaan-monga/DSA/tree/master/1508-longest-happy-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/armaan-monga/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/armaan-monga/DSA/tree/master/1013-fibonacci-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/armaan-monga/DSA/tree/master/1508-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/armaan-monga/DSA/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/armaan-monga/DSA/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
