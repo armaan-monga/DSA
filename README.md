@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/armaan-monga/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/armaan-monga/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/armaan-monga/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/armaan-monga/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/armaan-monga/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/armaan-monga/DSA/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/armaan-monga/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/armaan-monga/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/armaan-monga/DSA/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/armaan-monga/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/armaan-monga/DSA/tree/master/0443-string-compression) |
