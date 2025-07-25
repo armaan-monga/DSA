@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/armaan-monga/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/armaan-monga/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/armaan-monga/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/armaan-monga/DSA/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/armaan-monga/DSA/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/armaan-monga/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/armaan-monga/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/armaan-monga/DSA/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/armaan-monga/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/armaan-monga/DSA/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/armaan-monga/DSA/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
