@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/armaan-monga/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/armaan-monga/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/armaan-monga/DSA/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/armaan-monga/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/armaan-monga/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/armaan-monga/DSA/tree/master/0342-power-of-four) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/armaan-monga/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/armaan-monga/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/armaan-monga/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/armaan-monga/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/armaan-monga/DSA/tree/master/1013-fibonacci-number) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/armaan-monga/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/armaan-monga/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/armaan-monga/DSA/tree/master/0342-power-of-four) |
