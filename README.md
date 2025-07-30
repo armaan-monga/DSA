@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/armaan-monga/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/armaan-monga/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/armaan-monga/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/armaan-monga/DSA/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/armaan-monga/DSA/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/armaan-monga/DSA/tree/master/0283-move-zeroes) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/armaan-monga/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/armaan-monga/DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/armaan-monga/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/armaan-monga/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/armaan-monga/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/armaan-monga/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/armaan-monga/DSA/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/armaan-monga/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/armaan-monga/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/armaan-monga/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/armaan-monga/DSA/tree/master/0443-string-compression) |
