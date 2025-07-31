@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/armaan-monga/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/armaan-monga/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/armaan-monga/DSA/tree/master/1013-fibonacci-number) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/armaan-monga/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## String
 |  |
 | ------- |
