@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/armaan-monga/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/armaan-monga/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/armaan-monga/DSA/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/armaan-monga/DSA/tree/master/3321-type-of-triangle) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/armaan-monga/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/armaan-monga/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/armaan-monga/DSA/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/armaan-monga/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3321-type-of-triangle](https://github.com/armaan-monga/DSA/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/armaan-monga/DSA/tree/master/0645-set-mismatch) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/armaan-monga/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3226-minimum-number-game](https://github.com/armaan-monga/DSA/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/armaan-monga/DSA/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
