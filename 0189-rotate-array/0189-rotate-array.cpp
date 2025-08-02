@@ -12,7 +12,7 @@ public:
         
         k = k % n;  // Handle k > n
 
-        if (k == 0) return;
+
         reversepart(0,n-k-1,nums);
         reversepart(n-k,n-1,nums);
         reversepart(0,n-1,nums);
