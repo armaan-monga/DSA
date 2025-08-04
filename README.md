@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/armaan-monga/DSA/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/armaan-monga/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/armaan-monga/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/armaan-monga/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/armaan-monga/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/armaan-monga/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/armaan-monga/DSA/tree/master/3226-minimum-number-game) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/armaan-monga/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/armaan-monga/DSA/tree/master/0287-find-the-duplicate-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/armaan-monga/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/armaan-monga/DSA/tree/master/0645-set-mismatch) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/armaan-monga/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/armaan-monga/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3226-minimum-number-game](https://github.com/armaan-monga/DSA/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/armaan-monga/DSA/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
