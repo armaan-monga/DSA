@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/armaan-monga/DSA/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/armaan-monga/DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/armaan-monga/DSA/tree/master/0898-transpose-matrix) |
+| [1019-squares-of-a-sorted-array](https://github.com/armaan-monga/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/armaan-monga/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1791-richest-customer-wealth](https://github.com/armaan-monga/DSA/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/armaan-monga/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/armaan-monga/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/armaan-monga/DSA/tree/master/0443-string-compression) |
 | [0861-flipping-an-image](https://github.com/armaan-monga/DSA/tree/master/0861-flipping-an-image) |
+| [1019-squares-of-a-sorted-array](https://github.com/armaan-monga/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/armaan-monga/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Trie
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/armaan-monga/DSA/tree/master/0274-h-index) |
 | [0645-set-mismatch](https://github.com/armaan-monga/DSA/tree/master/0645-set-mismatch) |
+| [1019-squares-of-a-sorted-array](https://github.com/armaan-monga/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/armaan-monga/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/armaan-monga/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3226-minimum-number-game](https://github.com/armaan-monga/DSA/tree/master/3226-minimum-number-game) |
