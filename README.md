@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/armaan-monga/DSA/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/armaan-monga/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/armaan-monga/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/armaan-monga/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/armaan-monga/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/armaan-monga/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/armaan-monga/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/armaan-monga/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/armaan-monga/DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/armaan-monga/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/armaan-monga/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/armaan-monga/DSA/tree/master/0283-move-zeroes) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/armaan-monga/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/armaan-monga/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/armaan-monga/DSA/tree/master/0274-h-index) |
