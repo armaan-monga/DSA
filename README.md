@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/armaan-monga/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/armaan-monga/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/armaan-monga/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/armaan-monga/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/armaan-monga/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/armaan-monga/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/armaan-monga/DSA/tree/master/0053-maximum-subarray) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/armaan-monga/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/armaan-monga/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/armaan-monga/DSA/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/armaan-monga/DSA/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/armaan-monga/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/armaan-monga/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/armaan-monga/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/armaan-monga/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/armaan-monga/DSA/tree/master/0059-spiral-matrix-ii) |
@@ -262,5 +265,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/armaan-monga/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/armaan-monga/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
