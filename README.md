@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/armaan-monga/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/armaan-monga/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/armaan-monga/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/armaan-monga/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/armaan-monga/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/armaan-monga/DSA/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/armaan-monga/DSA/tree/master/3321-type-of-triangle) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/armaan-monga/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/armaan-monga/DSA/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/armaan-monga/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/armaan-monga/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/armaan-monga/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting Sort
 |  |
 | ------- |
