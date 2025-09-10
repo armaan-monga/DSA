@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/armaan-monga/DSA/tree/master/0443-string-compression) |
 | [0861-flipping-an-image](https://github.com/armaan-monga/DSA/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/armaan-monga/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/armaan-monga/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/armaan-monga/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Trie
 |  |
@@ -301,4 +302,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/armaan-monga/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/armaan-monga/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/armaan-monga/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
