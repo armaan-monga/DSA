@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/armaan-monga/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/armaan-monga/DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/armaan-monga/DSA/tree/master/0037-sudoku-solver) |
+| [0160-intersection-of-two-linked-lists](https://github.com/armaan-monga/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/armaan-monga/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/armaan-monga/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/armaan-monga/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/armaan-monga/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/armaan-monga/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/armaan-monga/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/armaan-monga/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/armaan-monga/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/armaan-monga/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/armaan-monga/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/armaan-monga/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/armaan-monga/DSA/tree/master/0908-middle-of-the-linked-list) |
