@@ -10,26 +10,23 @@
  */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
-       // public static boolean isodd(i
         ListNode temp=head;
-        ListNode odd = new ListNode(0);
-        ListNode even = new ListNode(-1);
-        ListNode tempo=odd;
-        ListNode tempe=even;
-        int index=1;
+        ListNode odd=new ListNode(0);
+        ListNode even=new ListNode(-1);
+        ListNode tempo=odd;        
+        ListNode tempe=even;        
         while(temp!=null){
-            if(index%2==1){
-                tempo.next=temp;
-                tempo=tempo.next;
-            }else{
-                tempe.next=temp;
-                tempe=tempe.next;
-            }
+            tempo.next=temp;
             temp=temp.next;
-            index++;
+            tempo=tempo.next;
+            tempe.next=temp;
+            if(temp==null)break;
+            temp=temp.next;
+            tempe=tempe.next;
         }
-        tempe.next=null;
-        tempo.next=even.next;
-        return odd.next;
+        odd=odd.next;
+        even=even.next;
+        tempo.next=even;
+        return odd;
     }
 }
