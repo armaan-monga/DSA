@@ -28,14 +28,14 @@ class Solution {
             fast=fast.next.next;
         }
         slow.next=reverse(slow.next);
-        ListNode st=head;
         int maxsum=Integer.MIN_VALUE;
-        ListNode temp=slow.next;
-        while(temp!=null){
-            if(st.val+temp.val>maxsum) maxsum=st.val+temp.val;
+        ListNode head1=head;
+        ListNode head2=slow.next;
+        while(head2!=null){
+            if(head1.val+head2.val>maxsum) maxsum=head1.val+head2.val;
             else{
-                st=st.next;
-                temp=temp.next;
+                head1=head1.next;
+                head2=head2.next;
             }
         }
         return maxsum;
