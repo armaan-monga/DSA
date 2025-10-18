@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/armaan-monga/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/armaan-monga/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1370-count-number-of-nice-subarrays](https://github.com/armaan-monga/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1646-kth-missing-positive-number](https://github.com/armaan-monga/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/armaan-monga/DSA/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/armaan-monga/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/armaan-monga/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/armaan-monga/DSA/tree/master/0645-set-mismatch) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/armaan-monga/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1370-count-number-of-nice-subarrays](https://github.com/armaan-monga/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/armaan-monga/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/armaan-monga/DSA/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/armaan-monga/DSA/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/armaan-monga/DSA/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/armaan-monga/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/armaan-monga/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/armaan-monga/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/armaan-monga/DSA/tree/master/2752-sum-multiples) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/armaan-monga/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/armaan-monga/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/armaan-monga/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/armaan-monga/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
