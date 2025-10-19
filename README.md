@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/armaan-monga/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/armaan-monga/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/armaan-monga/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2227-sum-of-subarray-ranges](https://github.com/armaan-monga/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/armaan-monga/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/armaan-monga/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/armaan-monga/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/armaan-monga/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/armaan-monga/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/armaan-monga/DSA/tree/master/0735-asteroid-collision) |
+| [2227-sum-of-subarray-ranges](https://github.com/armaan-monga/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/armaan-monga/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/armaan-monga/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/armaan-monga/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/armaan-monga/DSA/tree/master/0503-next-greater-element-ii) |
+| [2227-sum-of-subarray-ranges](https://github.com/armaan-monga/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
