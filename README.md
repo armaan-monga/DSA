@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/armaan-monga/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/armaan-monga/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/armaan-monga/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/armaan-monga/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/armaan-monga/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/armaan-monga/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/armaan-monga/DSA/tree/master/0162-find-peak-element) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/armaan-monga/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/armaan-monga/DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/armaan-monga/DSA/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/armaan-monga/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/armaan-monga/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/armaan-monga/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/armaan-monga/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/armaan-monga/DSA/tree/master/0937-online-stock-span) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/armaan-monga/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
