@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/armaan-monga/DSA/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/armaan-monga/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/armaan-monga/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/armaan-monga/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/armaan-monga/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/armaan-monga/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/armaan-monga/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/armaan-monga/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/armaan-monga/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/armaan-monga/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/armaan-monga/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/armaan-monga/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/armaan-monga/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/armaan-monga/DSA/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/armaan-monga/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/armaan-monga/DSA/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/armaan-monga/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/armaan-monga/DSA/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaan-monga/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaan-monga/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/armaan-monga/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaan-monga/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/armaan-monga/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0948-sort-an-array) |
 | [3226-minimum-number-game](https://github.com/armaan-monga/DSA/tree/master/3226-minimum-number-game) |
 ## Queue
@@ -328,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/armaan-monga/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/armaan-monga/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting Sort
@@ -347,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/armaan-monga/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -405,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaan-monga/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/armaan-monga/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
