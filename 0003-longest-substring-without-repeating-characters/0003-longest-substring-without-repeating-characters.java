@@ -7,13 +7,9 @@ class Solution {
             char ch=s.charAt(i);
             if(map.containsKey(ch)){
                 start=Math.max(start,map.get(ch)+1);
-                maxlen=Math.max(maxlen,i-start+1);
-            }            
-            
+            }                 
             map.put(ch,i);
-
             maxlen=Math.max(maxlen,i-start+1);
-
         }
         return maxlen;
     }
