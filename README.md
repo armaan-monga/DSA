@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/armaan-monga/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/armaan-monga/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/armaan-monga/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/armaan-monga/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/armaan-monga/DSA/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/armaan-monga/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/armaan-monga/DSA/tree/master/0503-next-greater-element-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/armaan-monga/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/armaan-monga/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/armaan-monga/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/armaan-monga/DSA/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/armaan-monga/DSA/tree/master/0496-next-greater-element-i) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/armaan-monga/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/armaan-monga/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/armaan-monga/DSA/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/armaan-monga/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/armaan-monga/DSA/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/armaan-monga/DSA/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/armaan-monga/DSA/tree/master/1013-fibonacci-number) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/armaan-monga/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/armaan-monga/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/armaan-monga/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/armaan-monga/DSA/tree/master/0937-online-stock-span) |
 ## Quickselect
 |  |
@@ -423,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/armaan-monga/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/armaan-monga/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
