@@ -431,4 +431,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/armaan-monga/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/armaan-monga/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/armaan-monga/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/armaan-monga/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
