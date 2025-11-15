@@ -1,4 +1,3 @@
-
 class Solution {
     public static int height(TreeNode root){
     if(root==null||root.left==null && root.right==null)return 0;
