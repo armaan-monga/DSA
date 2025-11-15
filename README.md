@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/armaan-monga/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/armaan-monga/DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/armaan-monga/DSA/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/armaan-monga/DSA/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/armaan-monga/DSA/tree/master/0459-repeated-substring-pattern) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/armaan-monga/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/armaan-monga/DSA/tree/master/0051-n-queens) |
+| [0257-binary-tree-paths](https://github.com/armaan-monga/DSA/tree/master/0257-binary-tree-paths) |
 ## Merge Sort
 |  |
 | ------- |
@@ -436,18 +438,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/armaan-monga/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/armaan-monga/DSA/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/armaan-monga/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/armaan-monga/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/armaan-monga/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/armaan-monga/DSA/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/armaan-monga/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/armaan-monga/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/armaan-monga/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/armaan-monga/DSA/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/armaan-monga/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/armaan-monga/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
