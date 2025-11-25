@@ -1,44 +1,39 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
-    public ListNode reverseKGroup(ListNode head, int k) {
-        if(head==null)return null;
+    public static int len(ListNode head){
+        int count=0;
         ListNode temp=head;
-        ListNode prev = null;
-        ListNode next=null;
-        int c=k;
-        while(temp!=null && c>0){
-            next=temp.next;
-            temp.next=prev;
-            prev=temp;
-            temp=next;
-            c--;
+        while(temp!=null){
+            temp=temp.next;
+            count++;
         }
-        if(temp==null && c>0){
-            temp=prev;
-            prev=null;
-            next=null;
-            while(temp!=null){
-            next=temp.next;
-            temp.next=prev;
-            prev=temp;
-            temp=next;
+        return count;
+    }
+    public ListNode reverseKGroup(ListNode head, int k) {
+        int n=len(head);
+        int groups=n/k;
+        ListNode currhead=head;
+        ListNode prevhead=null;
+        ListNode ansnode=null;
+        for(int i=0;i<groups;i++){
+            ListNode prev=null;
+            ListNode curr=currhead;
+            ListNode next=null;
+            for(int j=0;j<k;j++){
+                next=curr.next;
+                curr.next=prev;
+                prev=curr;
+                curr=next;
+            }
+            if(prevhead==null){
+                ansnode=prev;
+            }
+            else{
+                prevhead.next=prev;
+            }
+            prevhead=currhead;
+            currhead=curr;
         }
-        }
-        if(c>0){
-            return prev;
-        }
-        else{
-        head.next=reverseKGroup(temp,k);
-        }
-        return prev;
+        prevhead.next=currhead;
+        return ansnode;
     }
 }
