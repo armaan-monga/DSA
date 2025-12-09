@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/armaan-monga/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/armaan-monga/DSA/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/armaan-monga/DSA/tree/master/0742-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/armaan-monga/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/armaan-monga/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1508-longest-happy-prefix](https://github.com/armaan-monga/DSA/tree/master/1508-longest-happy-prefix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/armaan-monga/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/armaan-monga/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/armaan-monga/DSA/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/armaan-monga/DSA/tree/master/0937-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/armaan-monga/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/armaan-monga/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/armaan-monga/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
