@@ -18,9 +18,9 @@ class Solution {
             curr=next;
             count++;
         }
-        if(head!=null){
-            head.next=curr;
-        }
+        // if(head!=null){
+        //     head.next=curr;
+        // }
         if(curr!=null){
             head.next=reverseKGroup(curr,k);
         }
