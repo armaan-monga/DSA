@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/armaan-monga/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/armaan-monga/DSA/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0948-sort-an-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/armaan-monga/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/armaan-monga/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/armaan-monga/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-monga/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/armaan-monga/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/armaan-monga/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/armaan-monga/DSA/tree/master/0645-set-mismatch) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/armaan-monga/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/armaan-monga/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-monga/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/armaan-monga/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/armaan-monga/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/armaan-monga/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/armaan-monga/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
