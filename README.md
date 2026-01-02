@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/armaan-monga/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/armaan-monga/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/armaan-monga/DSA/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/armaan-monga/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/armaan-monga/DSA/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/armaan-monga/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0861-flipping-an-image](https://github.com/armaan-monga/DSA/tree/master/0861-flipping-an-image) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/armaan-monga/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/armaan-monga/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/armaan-monga/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/armaan-monga/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/armaan-monga/DSA/tree/master/1480-running-sum-of-1d-array) |
