@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/armaan-monga/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/armaan-monga/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/armaan-monga/DSA/tree/master/0454-4sum-ii) |
+| [0485-max-consecutive-ones](https://github.com/armaan-monga/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/armaan-monga/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/armaan-monga/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/armaan-monga/DSA/tree/master/0540-single-element-in-a-sorted-array) |
