@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/armaan-monga/DSA/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/armaan-monga/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0861-flipping-an-image](https://github.com/armaan-monga/DSA/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/armaan-monga/DSA/tree/master/0867-transpose-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/armaan-monga/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/armaan-monga/DSA/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0948-sort-an-array) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/armaan-monga/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaan-monga/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/armaan-monga/DSA/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/armaan-monga/DSA/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/armaan-monga/DSA/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/armaan-monga/DSA/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/armaan-monga/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/armaan-monga/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/armaan-monga/DSA/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/armaan-monga/DSA/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/armaan-monga/DSA/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/armaan-monga/DSA/tree/master/0898-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/armaan-monga/DSA/tree/master/1920-build-array-from-permutation) |
 | [3226-minimum-number-game](https://github.com/armaan-monga/DSA/tree/master/3226-minimum-number-game) |
