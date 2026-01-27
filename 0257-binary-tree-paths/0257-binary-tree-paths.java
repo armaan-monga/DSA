@@ -1,5 +1,5 @@
 class Solution {
-    public void helper(TreeNode root,List<String> ans,String s){
+    public static void helper(TreeNode root,List<String> ans,String s){
         if(root==null)return;
         if(root.left==null && root.right==null){
             s+=root.val;
@@ -10,7 +10,7 @@ class Solution {
         helper(root.right,ans,s+root.val+"->");
     }
     public List<String> binaryTreePaths(TreeNode root) {
-        List<String> ans=new ArrayList<>();
+        ArrayList<String> ans=new ArrayList<>();
         helper(root,ans,"");
         return ans;
     }
