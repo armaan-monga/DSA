@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/armaan-monga/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/armaan-monga/DSA/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/armaan-monga/DSA/tree/master/3321-type-of-triangle) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/armaan-monga/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/armaan-monga/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/armaan-monga/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/armaan-monga/DSA/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/armaan-monga/DSA/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/armaan-monga/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/armaan-monga/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Simulation
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/armaan-monga/DSA/tree/master/0898-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/armaan-monga/DSA/tree/master/1920-build-array-from-permutation) |
 | [3226-minimum-number-game](https://github.com/armaan-monga/DSA/tree/master/3226-minimum-number-game) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/armaan-monga/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
