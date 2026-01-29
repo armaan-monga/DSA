@@ -3,7 +3,7 @@ class Solution {
         if(root==null)return 0;
         return 1+Math.max(height(root.left),height(root.right));
     }
-    public void preorder(TreeNode root,int n,long[] data){
+    public void preorder(TreeNode root,int n,double[] data){
         if(root==null)return ;
         if(n==1){
             data[0]+=root.val;
@@ -18,9 +18,9 @@ class Solution {
         if(root==null)return ans;
         int level=height(root);
         for(int i=1;i<=level;i++){
-            long[] data=new long[2];
+            double[] data=new double[2];
             preorder(root,i,data);
-            double avg=(double) data[0]/data[1];
+            double avg=data[0]/data[1];
             ans.add(avg);
         }
         return ans;
