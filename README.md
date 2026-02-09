@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/armaan-monga/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/armaan-monga/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/armaan-monga/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/armaan-monga/DSA/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/armaan-monga/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/armaan-monga/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/armaan-monga/DSA/tree/master/0049-group-anagrams) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/armaan-monga/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/armaan-monga/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/armaan-monga/DSA/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/armaan-monga/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/armaan-monga/DSA/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/armaan-monga/DSA/tree/master/0113-path-sum-ii) |
