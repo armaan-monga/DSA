@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/armaan-monga/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/armaan-monga/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaan-monga/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/armaan-monga/DSA/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/armaan-monga/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/armaan-monga/DSA/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaan-monga/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/armaan-monga/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/armaan-monga/DSA/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/armaan-monga/DSA/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/armaan-monga/DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/armaan-monga/DSA/tree/master/0257-binary-tree-paths) |
 ## Merge Sort
 |  |
