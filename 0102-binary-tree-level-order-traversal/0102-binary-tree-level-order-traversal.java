@@ -1,26 +1,20 @@
 class Solution {
-    public int height(TreeNode root){
-        if(root==null)return 0;
-        return 1+Math.max(height(root.left),height(root.right));
-    }
-    public void preorder(TreeNode root,int n,List<Integer> arr){
-        if(root==null)return;
-        if(n==1){
-            arr.add(root.val);
-            return;
-        }
-        preorder(root.left,n-1,arr);
-        preorder(root.right,n-1,arr);
-    }
     public List<List<Integer>> levelOrder(TreeNode root) {
-       List<List<Integer>> ans=new ArrayList<>();
-       if(root==null)return ans;
-       int level=height(root);
-       for(int i=1;i<=level;i++){
-        List<Integer> arr=new ArrayList<>();
-        preorder(root,i,arr);
-        ans.add(arr);
-       }
-       return ans;
+        List<List<Integer>> ans=new ArrayList<>();
+        if(root==null)return ans;
+        Queue<TreeNode> q=new LinkedList<>();
+        q.offer(root);
+        while(q.size()>0){
+            int size=q.size();
+            List<Integer> curr=new ArrayList<>();
+            for(int i=0;i<size;i++){
+                TreeNode node=q.poll();
+                curr.add(node.val);
+                if(node.left!=null)q.offer(node.left);
+                if(node.right!=null)q.offer(node.right);
+            }
+            ans.add(curr);
+        }
+        return ans;
     }
 }
