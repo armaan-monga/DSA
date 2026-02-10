@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/armaan-monga/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/armaan-monga/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/armaan-monga/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/armaan-monga/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/armaan-monga/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/armaan-monga/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/armaan-monga/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/armaan-monga/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/armaan-monga/DSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/armaan-monga/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/armaan-monga/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/armaan-monga/DSA/tree/master/0205-isomorphic-strings) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/armaan-monga/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/armaan-monga/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/armaan-monga/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/armaan-monga/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaan-monga/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/armaan-monga/DSA/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/armaan-monga/DSA/tree/master/0867-transpose-matrix) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/armaan-monga/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/armaan-monga/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/armaan-monga/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/armaan-monga/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/armaan-monga/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/armaan-monga/DSA/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/armaan-monga/DSA/tree/master/0216-combination-sum-iii) |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/armaan-monga/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/armaan-monga/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/armaan-monga/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/armaan-monga/DSA/tree/master/0101-symmetric-tree) |
