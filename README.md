@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/armaan-monga/DSA/tree/master/0867-transpose-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/armaan-monga/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/armaan-monga/DSA/tree/master/0898-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0948-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/armaan-monga/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/armaan-monga/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/armaan-monga/DSA/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/armaan-monga/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/armaan-monga/DSA/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/armaan-monga/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/armaan-monga/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/armaan-monga/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaan-monga/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/armaan-monga/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/armaan-monga/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/armaan-monga/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0948-sort-an-array) |
 | [3226-minimum-number-game](https://github.com/armaan-monga/DSA/tree/master/3226-minimum-number-game) |
 ## Queue
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/armaan-monga/DSA/tree/master/0274-h-index) |
+| [0912-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0948-sort-an-array) |
 ## Backtracking
 |  |
@@ -431,15 +436,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/armaan-monga/DSA/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/armaan-monga/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/armaan-monga/DSA/tree/master/0948-sort-an-array) |
 ## Linked List
 |  |
