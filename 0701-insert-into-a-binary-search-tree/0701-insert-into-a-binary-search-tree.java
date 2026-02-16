@@ -10,7 +10,6 @@ class Solution {
             else{
                 TreeNode newnode=new TreeNode(val);
                 root.left=newnode;
-                return root;
             }
         }
         if(root.val<val){
@@ -20,7 +19,6 @@ class Solution {
             else{
                 TreeNode newnode=new TreeNode(val);
                 root.right=newnode;
-                return root;
             }
         }
         return root;
