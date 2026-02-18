@@ -1,22 +1,15 @@
 class Solution {
+    int index=0;
     public TreeNode bstFromPreorder(int[] arr) {
-        if(arr.length==0)return null;
-        TreeNode root=new TreeNode(arr[0]);
-        for(int i=1;i<arr.length;i++){
-            helper(root,arr[i]);
-        }
-        return root;
+        return build(arr,Integer.MAX_VALUE);
     }
-    public TreeNode helper(TreeNode root,int val){
-        if(root==null){
-            return new TreeNode(val);
+    public TreeNode build(int[] arr,int bound){
+        if(index==arr.length || arr[index]>bound){
+            return null;
         }
-        if(val<root.val){
-            root.left=helper(root.left,val);
-        }
-        else{
-            root.right=helper(root.right,val);
-        }
+        TreeNode root=new TreeNode(arr[index++]);
+        root.left=build(arr,root.val);
+        root.right=build(arr,bound);
         return root;
     }
 }
