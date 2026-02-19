@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/armaan-monga/DSA/tree/master/1920-build-array-from-permutation) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/armaan-monga/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/armaan-monga/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/armaan-monga/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/armaan-monga/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/armaan-monga/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2227-sum-of-subarray-ranges](https://github.com/armaan-monga/DSA/tree/master/2227-sum-of-subarray-ranges) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/armaan-monga/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-monga/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/armaan-monga/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/armaan-monga/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/armaan-monga/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/armaan-monga/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/armaan-monga/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/armaan-monga/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/armaan-monga/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/armaan-monga/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/armaan-monga/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/armaan-monga/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/armaan-monga/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/armaan-monga/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/armaan-monga/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/armaan-monga/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/armaan-monga/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/armaan-monga/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/armaan-monga/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/armaan-monga/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
