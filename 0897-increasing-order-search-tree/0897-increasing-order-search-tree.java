@@ -1,19 +1,21 @@
 class Solution {
+    TreeNode prev=null;
+    TreeNode head=null;
     public TreeNode increasingBST(TreeNode root) {
-        Stack<Integer> st=new Stack<>();
-        helper(root,st);
-        TreeNode newnode=new TreeNode(st.pop());
-        TreeNode n=newnode;
-        while(!st.isEmpty()){
-            newnode.right=new TreeNode(st.pop());
-            newnode=newnode.right;
-        }
-        return n;
+        inorder(root);
+        return head;
     }
-    public void helper(TreeNode root,Stack<Integer> st){
+    public void inorder(TreeNode root){
         if(root==null)return;
-        helper(root.right,st);
-        st.push(root.val);
-        helper(root.left,st);
+        inorder(root.left);
+        if(prev==null){
+            head=root;
+        }
+        else{
+            prev.right=root;
+        }
+        root.left=null;
+        prev=root;
+        inorder(root.right);
     }
 }
