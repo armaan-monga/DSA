@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-monga/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/armaan-monga/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/armaan-monga/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/armaan-monga/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/armaan-monga/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/armaan-monga/DSA/tree/master/1791-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/armaan-monga/DSA/tree/master/1920-build-array-from-permutation) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/armaan-monga/DSA/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/armaan-monga/DSA/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/armaan-monga/DSA/tree/master/0898-transpose-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/armaan-monga/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/armaan-monga/DSA/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/armaan-monga/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/armaan-monga/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
