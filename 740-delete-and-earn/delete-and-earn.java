@@ -20,12 +20,16 @@ class Solution {
             max = Math.max(max, num);
         }
         dp = new int[max + 1];
-        dp[0]=0;
+        int a =0;
+        int b=0;
+        int c=0;
         if (max >= 1)
-        dp[1] = map.getOrDefault(1, 0);
+        b = map.getOrDefault(1, 0);
         for(int i=2;i<=max;i++){
-            dp[i]=Math.max(dp[i-1],map.getOrDefault(i,0)+dp[i-2]);
+            c=Math.max(b,map.getOrDefault(i,0)+a);
+            a=b;
+            b=c;
         }
-        return dp[max];
+        return b;
     }
 }
