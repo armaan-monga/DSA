@@ -13,19 +13,22 @@ class Solution {
     }
     public int numDecodings(String s) {
         int n=s.length();
-        dp=new int[n+1];
-        dp[n]=1;
+        int a=0;
+        int b=1;
+        int c=0;
         for(int i=n-1;i>=0;i--){
-            if(s.charAt(i)=='0')dp[i]=0;
+            if(s.charAt(i)=='0')c=0;
             else {
-            dp[i]=dp[i+1];
+            c=b;
             if(i+1<n){
             if(s.charAt(i)=='1' || (s.charAt(i)=='2' && s.charAt(i+1)<='6')){
-            dp[i]+=dp[i+2];
+            c+=a;
             }
             } 
         }
+        a=b;
+        b=c;
         }
-        return dp[0];
+        return b;
     }
 }
