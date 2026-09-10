@@ -1,37 +1,36 @@
 class Solution {
     int ans = 0;
 
-    int sum(TreeNode root) {
-        if (root == null) {
-            return 0;
-        }
+    class Pair {
+        int sum;
+        int count;
 
-        return root.val + sum(root.left) + sum(root.right);
+        Pair(int sum, int count) {
+            this.sum = sum;
+            this.count = count;
+        }
     }
 
-    int count(TreeNode root) {
+    Pair solve(TreeNode root) {
         if (root == null) {
-            return 0;
+            return new Pair(0, 0);
         }
 
-        return 1 + count(root.left) + count(root.right);
-    }
+        Pair left = solve(root.left);
+        Pair right = solve(root.right);
 
-    public int averageOfSubtree(TreeNode root) {
-        if (root == null) {
-            return 0;
-        }
+        int sum = root.val + left.sum + right.sum;
+        int count = 1 + left.count + right.count;
 
-        int s = sum(root);
-        int c = count(root);
-
-        if (root.val == s / c) {
+        if (root.val == sum / count) {
             ans++;
         }
 
-        averageOfSubtree(root.left);
-        averageOfSubtree(root.right);
+        return new Pair(sum, count);
+    }
 
+    public int averageOfSubtree(TreeNode root) {
+        solve(root);
         return ans;
     }
 }
