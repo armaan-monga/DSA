@@ -1,19 +1,11 @@
 class Solution {
     public int findCenter(int[][] edges) {
-        List<List<Integer>> adj=new ArrayList<>();
-        for(int i=0;i<=edges.length+1;i++){
-            adj.add(new ArrayList<>());
-        }
-        for(int i=0;i<edges.length;i++){
-            int u=edges[i][0],v=edges[i][1];
-            adj.get(u).add(v);
-            adj.get(v).add(u);
-        }
-        int i=0;
-        for(List<Integer> l : adj){
-            if(l.size()==edges.length)return i;
-            i++;
-        }
+        int u1=edges[0][0];
+        int v1=edges[0][1];
+        int u2=edges[1][0];
+        int v2=edges[1][1];
+        if(u1==u2 || u1==v2)return u1;
+        if(v1==u2 || v1 == v2)return v1;
         return -1;
     }
 }
