@@ -1,25 +1,35 @@
 class Solution {
-    public TreeNode dfs(TreeNode root,int val,int depth,int curr){
-        if(root==null)return null;
-        if(curr==depth-1){
-            TreeNode left=root.left;
-            TreeNode right=root.right;
-            root.left=new TreeNode(val);
-            root.right=new TreeNode(val);
-            root.left.left=left;
-            root.right.right=right;
-            return root;
-        }
-        root.left=dfs(root.left,val,depth,curr+1);
-        root.right=dfs(root.right,val,depth,curr+1);
-        return root;
-    }
     public TreeNode addOneRow(TreeNode root, int val, int depth) {
-        if(depth==1){
+        if (depth == 1) {
             TreeNode newNode = new TreeNode(val);
-            newNode.left=root;
+            newNode.left = root;
             return newNode;
         }
-        return dfs(root,val,depth,1);
+        Queue<TreeNode> q = new LinkedList<>();
+        q.offer(root);
+        int currDepth = 1;
+        while (currDepth < depth - 1) {
+            int size = q.size();
+            for (int i = 0; i < size; i++) {
+                TreeNode node = q.poll();
+                if (node.left != null) {
+                    q.offer(node.left);
+                }
+                if (node.right != null) {
+                    q.offer(node.right);
+                }
+            }
+            currDepth++;
+        }
+        while (!q.isEmpty()) {
+            TreeNode node = q.poll();
+            TreeNode left = node.left;
+            TreeNode right = node.right;
+            node.left = new TreeNode(val);
+            node.right = new TreeNode(val);
+            node.left.left = left;
+            node.right.right = right;
+        }
+        return root;
     }
 }
