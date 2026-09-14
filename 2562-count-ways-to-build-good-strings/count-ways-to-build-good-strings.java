@@ -12,7 +12,17 @@ class Solution {
     }
     public int countGoodStrings(int l, int h, int z, int o) {
         dp=new int[h+1];
-        Arrays.fill(dp,-1);
-        return solve(0,l,h,z,o);
+        for(int i=h;i>=0;i--){
+            int ans=0;
+            if(i>=l){
+                ans=1;
+            }
+            if(i+z<=h)
+            ans=(ans+dp[i+z])%MOD;
+            if(i+o<=h)
+            ans=(ans+dp[i+o])%MOD;
+            dp[i]=ans;
+        }
+        return dp[0];
     }
 }
