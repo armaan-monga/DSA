@@ -16,7 +16,12 @@ class Solution {
             } else {
                 curr = 0;
             }
-            if (curr == 0) { left = right; } else if (curr == prev) { left = right - 1; }
+            if (curr == 0){
+                left = right;
+            }
+            else if(curr == prev){
+                left = right - 1;
+            }
             prev = curr;
             ans = Math.max(ans, right - left + 1);
         }
