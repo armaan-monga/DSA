@@ -16,12 +16,17 @@
 16            } else {
 17                curr = 0;
 18            }
-19            if (curr == 0) { left = right; } else if (curr == prev) { left = right - 1; }
-20            prev = curr;
-21            ans = Math.max(ans, right - left + 1);
-22        }
-23        return ans;
-24    }
-25}
-26
-27
+19            if (curr == 0){
+20                left = right;
+21            }
+22            else if(curr == prev){
+23                left = right - 1;
+24            }
+25            prev = curr;
+26            ans = Math.max(ans, right - left + 1);
+27        }
+28        return ans;
+29    }
+30}
+31
+32
