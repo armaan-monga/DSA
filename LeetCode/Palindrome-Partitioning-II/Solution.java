@@ -1,26 +1,26 @@
 1class Solution {
 2    public int minCut(String s) {
 3        int n = s.length();
-4        int[] dp = new int[n + 1];
-5        dp[n] = 0;
-6        for (int index = n - 1; index >= 0; index--) {
-7            int min = Integer.MAX_VALUE;
-8            for (int i = index; i < n; i++) {
-9                if (isPalindrome(s, index, i)) {
-10                    int partition = 1 + dp[i + 1];
-11                    min = Math.min(min, partition);
-12                }
-13            }
-14            dp[index] = min;
-15        }
-16        return dp[0] - 1;
-17    }
-18    public boolean isPalindrome(String s, int left, int right) {
-19        while (left < right) {
-20            if (s.charAt(left++) != s.charAt(right--)) {
-21                return false;
-22            }
+4        boolean[][] palindrome = new boolean[n][n];
+5        for (int i = n - 1; i >= 0; i--) {
+6            for (int j = i; j < n; j++) {
+7                if (s.charAt(i) == s.charAt(j) &&
+8                    (j - i <= 2 || palindrome[i + 1][j - 1])) {
+9                    palindrome[i][j] = true;
+10                }
+11            }
+12        }
+13        int[] dp = new int[n + 1];
+14        dp[n] = 0;
+15        for (int i = n - 1; i >= 0; i--) {
+16            int min = Integer.MAX_VALUE;
+17            for (int j = i; j < n; j++) {
+18                if (palindrome[i][j]) {
+19                    min = Math.min(min, 1 + dp[j + 1]);
+20                }
+21            }
+22            dp[i] = min;
 23        }
-24        return true;
+24        return dp[0] - 1;
 25    }
 26}
