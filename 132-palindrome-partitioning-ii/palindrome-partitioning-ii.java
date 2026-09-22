@@ -1,26 +1,26 @@
 class Solution {
     public int minCut(String s) {
         int n = s.length();
-        int[] dp = new int[n + 1];
-        dp[n] = 0;
-        for (int index = n - 1; index >= 0; index--) {
-            int min = Integer.MAX_VALUE;
-            for (int i = index; i < n; i++) {
-                if (isPalindrome(s, index, i)) {
-                    int partition = 1 + dp[i + 1];
-                    min = Math.min(min, partition);
+        boolean[][] palindrome = new boolean[n][n];
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = i; j < n; j++) {
+                if (s.charAt(i) == s.charAt(j) &&
+                    (j - i <= 2 || palindrome[i + 1][j - 1])) {
+                    palindrome[i][j] = true;
                 }
             }
-            dp[index] = min;
+        }
+        int[] dp = new int[n + 1];
+        dp[n] = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            int min = Integer.MAX_VALUE;
+            for (int j = i; j < n; j++) {
+                if (palindrome[i][j]) {
+                    min = Math.min(min, 1 + dp[j + 1]);
+                }
+            }
+            dp[i] = min;
         }
         return dp[0] - 1;
-    }
-    public boolean isPalindrome(String s, int left, int right) {
-        while (left < right) {
-            if (s.charAt(left++) != s.charAt(right--)) {
-                return false;
-            }
-        }
-        return true;
     }
 }
