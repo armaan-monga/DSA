@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/armaan-monga/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/armaan-monga/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/armaan-monga/DSA/tree/master/1646-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/armaan-monga/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1791-richest-customer-wealth](https://github.com/armaan-monga/DSA/tree/master/1791-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/armaan-monga/DSA/tree/master/1920-build-array-from-permutation) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/armaan-monga/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-monga/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/armaan-monga/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/armaan-monga/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/armaan-monga/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1980-find-unique-binary-string](https://github.com/armaan-monga/DSA/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/armaan-monga/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/armaan-monga/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/armaan-monga/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/armaan-monga/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/armaan-monga/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/armaan-monga/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/armaan-monga/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/armaan-monga/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/armaan-monga/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/armaan-monga/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/armaan-monga/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/armaan-monga/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/armaan-monga/DSA/tree/master/1646-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/armaan-monga/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/armaan-monga/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/armaan-monga/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/armaan-monga/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
