@@ -1,7 +1,7 @@
 class Solution {
     int result = Integer.MIN_VALUE;
     int m;
-    public void solve(int idx,int count,int n,int[] resultant,int[][] requests){
+    public void solve(int idx,int count,int[] resultant,int[][] requests){
         if(idx>=m){
             boolean allzero=true;
             for(int x:resultant){
@@ -19,15 +19,15 @@ class Solution {
         int to = requests[idx][1];
         resultant[from]--;
         resultant[to]++;
-        solve(idx+1,count+1,n,resultant,requests);
+        solve(idx+1,count+1,resultant,requests);
         resultant[from]++;
         resultant[to]--;
-        solve(idx+1,count,n,resultant,requests);
+        solve(idx+1,count,resultant,requests);
     }
     public int maximumRequests(int n, int[][] requests) {
         m = requests.length;
         int[] resultant = new int[n];
-        solve(0,0,n,resultant,requests);
+        solve(0,0,resultant,requests);
         return result;
     }
 }
