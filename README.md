@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/armaan-monga/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2227-sum-of-subarray-ranges](https://github.com/armaan-monga/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/armaan-monga/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2305-fair-distribution-of-cookies](https://github.com/armaan-monga/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/armaan-monga/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/armaan-monga/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/armaan-monga/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/armaan-monga/DSA/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/armaan-monga/DSA/tree/master/0861-flipping-an-image) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/armaan-monga/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2305-fair-distribution-of-cookies](https://github.com/armaan-monga/DSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/armaan-monga/DSA/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/armaan-monga/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/armaan-monga/DSA/tree/master/1013-fibonacci-number) |
+| [2305-fair-distribution-of-cookies](https://github.com/armaan-monga/DSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Memoization
 |  |
 | ------- |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/armaan-monga/DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/armaan-monga/DSA/tree/master/0257-binary-tree-paths) |
 | [1980-find-unique-binary-string](https://github.com/armaan-monga/DSA/tree/master/1980-find-unique-binary-string) |
+| [2305-fair-distribution-of-cookies](https://github.com/armaan-monga/DSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Merge Sort
 |  |
 | ------- |
@@ -808,4 +812,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/armaan-monga/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/armaan-monga/DSA/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
