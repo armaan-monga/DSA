@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/armaan-monga/DSA/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/armaan-monga/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/armaan-monga/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0678-valid-parenthesis-string](https://github.com/armaan-monga/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/armaan-monga/DSA/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/armaan-monga/DSA/tree/master/0742-to-lower-case) |
 | [0796-rotate-string](https://github.com/armaan-monga/DSA/tree/master/0796-rotate-string) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/armaan-monga/DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/armaan-monga/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/armaan-monga/DSA/tree/master/0198-house-robber) |
+| [0678-valid-parenthesis-string](https://github.com/armaan-monga/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/armaan-monga/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/armaan-monga/DSA/tree/master/1013-fibonacci-number) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/armaan-monga/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/armaan-monga/DSA/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/armaan-monga/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/armaan-monga/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1903-largest-odd-number-in-string](https://github.com/armaan-monga/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/armaan-monga/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/armaan-monga/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/armaan-monga/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/armaan-monga/DSA/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/armaan-monga/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/armaan-monga/DSA/tree/master/0735-asteroid-collision) |
 | [0897-increasing-order-search-tree](https://github.com/armaan-monga/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/armaan-monga/DSA/tree/master/0937-online-stock-span) |
@@ -832,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/armaan-monga/DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/armaan-monga/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/armaan-monga/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/armaan-monga/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/armaan-monga/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
