@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/armaan-monga/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/armaan-monga/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/armaan-monga/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/armaan-monga/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/armaan-monga/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/armaan-monga/DSA/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/armaan-monga/DSA/tree/master/0449-serialize-and-deserialize-bst) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/armaan-monga/DSA/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/armaan-monga/DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/armaan-monga/DSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/armaan-monga/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0679-24-game](https://github.com/armaan-monga/DSA/tree/master/0679-24-game) |
 | [1980-find-unique-binary-string](https://github.com/armaan-monga/DSA/tree/master/1980-find-unique-binary-string) |
 | [2305-fair-distribution-of-cookies](https://github.com/armaan-monga/DSA/tree/master/2305-fair-distribution-of-cookies) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/armaan-monga/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/armaan-monga/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/armaan-monga/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/armaan-monga/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/armaan-monga/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/armaan-monga/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/armaan-monga/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
