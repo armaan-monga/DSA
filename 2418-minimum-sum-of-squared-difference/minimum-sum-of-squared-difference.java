@@ -1,37 +1,22 @@
 class Solution {
     public long minSumSquareDiff(int[] nums1, int[] nums2, int k1, int k2) {
-        long k = (long) k1 + k2;
         int n = nums1.length;
-
-        long sum = 0;
-        for (int i = 0; i < n; i++) {
-            nums1[i] = Math.abs(nums1[i] - nums2[i]);
-            sum += nums1[i];
+        int[] arr = new int[100000+1];
+        for(int i=0;i<n;i++){
+            int d=Math.abs(nums1[i]-nums2[i]);
+            arr[d]++;
         }
-        if (sum <= k) {
-            return 0;
+        long k = k1+k2;
+        for(int currdiff=100000;currdiff>0 && k>0;currdiff--){
+            long count = Math.min(arr[currdiff],k);
+            arr[currdiff]-=(int)count;
+            arr[currdiff-1]+=(int)count;
+            k-=count;
         }
-
-        Arrays.sort(nums1);
-        int[] d = new int[n + 1];
-        for (int i = 0; i < n; i++) {
-            d[i] = nums1[n - 1 - i];
+        long ans=0;
+        for(int i=1;i<=100000;i++){
+            ans+=(long)arr[i]*i*i;
         }
-
-        for (int i = 1; i <= n; i++) {
-            long cost = (long) (d[i - 1] - d[i]) * i;
-            if (cost > k) {
-                long q = k / i,
-                    r = k % i,
-                    hi = d[i - 1] - q;
-                long ans = hi * hi * (i - r) + (hi - 1) * (hi - 1) * r;
-                for (int j = i; j < n; j++) {
-                    ans += (long) d[j] * d[j];
-                }
-                return ans;
-            }
-            k -= cost;
-        }
-        return 0;
+        return ans;
     }
 }
