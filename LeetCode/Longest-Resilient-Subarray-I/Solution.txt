@@ -1,0 +1,18 @@
+1class Solution {
+2    public int resilientSubarray(int[] nums, int k) {
+3        int n=nums.length;
+4        int maxlen=1;
+5        for(int i=0;i<n;i++){
+6            int rem=nums[i]%k;
+7            int sum=0;
+8            for(int j=i;j<n;j++){
+9                sum+=nums[j];
+10                if(nums[j]%k!=rem)break;
+11                if(sum%k==rem){
+12                    maxlen=Math.max(maxlen,j-i+1);
+13                }
+14            }
+15        }
+16        return maxlen;
+17    }
+18}
