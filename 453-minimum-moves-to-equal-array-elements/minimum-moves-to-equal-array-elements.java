@@ -3,9 +3,9 @@ class Solution {
         int n=nums.length;
         int min=Integer.MAX_VALUE;
         int sum=0;
-        for(int i=0;i<n;i++){
-            sum+=nums[i];
-            min=Math.min(min,nums[i]);
+        for(int num:nums){
+            min=Math.min(min,num);
+            sum+=num;
         }
         return sum-n*min;
     }
