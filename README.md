@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/armaan-monga/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/armaan-monga/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3665-twisted-mirror-path-count](https://github.com/armaan-monga/DSA/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/armaan-monga/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/armaan-monga/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/armaan-monga/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2305-fair-distribution-of-cookies](https://github.com/armaan-monga/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [3665-twisted-mirror-path-count](https://github.com/armaan-monga/DSA/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/armaan-monga/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
