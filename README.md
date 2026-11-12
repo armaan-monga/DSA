@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/armaan-monga/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/armaan-monga/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/armaan-monga/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/armaan-monga/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3226-minimum-number-game](https://github.com/armaan-monga/DSA/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/armaan-monga/DSA/tree/master/3321-type-of-triangle) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/armaan-monga/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
