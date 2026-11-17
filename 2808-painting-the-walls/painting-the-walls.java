@@ -14,7 +14,7 @@ class Solution {
     }
     public int paintWalls(int[] cost, int[] time) {
         int n = cost.length;
-        dp=new int[n][n+1];
+        dp=new int[501][501];
         for(int[] i:dp){
             Arrays.fill(i,-1);
         }
