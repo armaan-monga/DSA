@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/armaan-monga/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/armaan-monga/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/armaan-monga/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2742-painting-the-walls](https://github.com/armaan-monga/DSA/tree/master/2742-painting-the-walls) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/armaan-monga/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/armaan-monga/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/armaan-monga/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/armaan-monga/DSA/tree/master/1013-fibonacci-number) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/armaan-monga/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2305-fair-distribution-of-cookies](https://github.com/armaan-monga/DSA/tree/master/2305-fair-distribution-of-cookies) |
+| [2742-painting-the-walls](https://github.com/armaan-monga/DSA/tree/master/2742-painting-the-walls) |
 | [3665-twisted-mirror-path-count](https://github.com/armaan-monga/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/armaan-monga/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
